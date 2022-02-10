@@ -1,0 +1,15 @@
+E:\Chat\Ecomerce\Core\bin\Debug\net5.0\Core.deps.json
+E:\Chat\Ecomerce\Core\bin\Debug\net5.0\Core.dll
+E:\Chat\Ecomerce\Core\bin\Debug\net5.0\ref\Core.dll
+E:\Chat\Ecomerce\Core\bin\Debug\net5.0\Core.pdb
+E:\Chat\Ecomerce\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chat\Ecomerce\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+E:\Chat\Ecomerce\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+E:\Chat\Ecomerce\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+E:\Chat\Ecomerce\Core\obj\Debug\net5.0\Core.dll
+E:\Chat\Ecomerce\Core\obj\Debug\net5.0\ref\Core.dll
+E:\Chat\Ecomerce\Core\obj\Debug\net5.0\Core.pdb
+E:\Chat\Ecomerce\Core\bin\Debug\net5.0\Core.runtimeconfig.json
+E:\Chat\Ecomerce\Core\bin\Debug\net5.0\Core.runtimeconfig.dev.json
+E:\Chat\Ecomerce\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+E:\Chat\Ecomerce\Core\obj\Debug\net5.0\Core.genruntimeconfig.cache
